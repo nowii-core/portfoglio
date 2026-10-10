@@ -181,7 +181,7 @@ Interactive visual experiments, UI concepts, 3D-inspired interfaces and digital 
 - **Telegram:** [@nolxv3](https://t.me/nolxv3)
 - **Discord:** [@nxvibe](https://discord.com/users/nxvibe)
 - **Reddit:** [@u/nowii-core](https://www.reddit.com/user/nowii-core/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
-
+- **Twitter:** [@nowiicore](twitter.com/nowiicore)
 ---
 
 ##  License
