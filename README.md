@@ -192,4 +192,4 @@ See the [LICENSE](LICENSE) file for more information.
 
 ---
 
-### Built by **nowii**
+### Built by **nowii-core**
