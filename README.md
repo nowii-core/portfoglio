@@ -178,9 +178,8 @@ Interactive visual experiments, UI concepts, 3D-inspired interfaces and digital 
 ##  Contact
 
 - **GitHub:** [@nowii-core](https://github.com/nowii-core)
-- **Instagram:** [@flamenich](https://instagram.com/flamenich)
 - **Telegram:** [@nolxv3](https://t.me/nolxv3)
-- **Discord:** `nxvibe`
+- **Discord:** [@nxvibe](https://discord.com/users/nxvibe) 
 
 ---
 
