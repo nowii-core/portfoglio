@@ -18,7 +18,7 @@
 
 ---
 
-## 🚀 Overview
+##  Overview
 
 **nowii** is my personal interactive portfolio, designed to present my work, skills, experiments and projects through a modern digital experience.
 
@@ -30,7 +30,7 @@ It combines web development, creative interfaces, experimentation with AI and a 
 
 ---
 
-## ✨ Features
+##  Features
 
 - **Animated Introduction** — cinematic opening sequence with logo, loading progress and smooth entrance animations.
 - **Dynamic Hero Section** — rotating descriptions that automatically change between different areas of development and technology.
@@ -43,7 +43,7 @@ It combines web development, creative interfaces, experimentation with AI and a 
 
 ---
 
-## 🛠️ Technologies
+##  Technologies
 
 ### Frontend
 
@@ -70,7 +70,7 @@ It combines web development, creative interfaces, experimentation with AI and a 
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 nowii-portfolio/
@@ -91,7 +91,7 @@ nowii-portfolio/
 
 ---
 
-## ⚡ Getting Started
+##  Getting Started
 
 Clone the repository:
 
@@ -120,7 +120,7 @@ http://127.0.0.1:5500
 
 ---
 
-## 🎨 Design Philosophy
+##  Design Philosophy
 
 The portfolio follows a **dark, modern and technology-focused visual identity**.
 
@@ -139,7 +139,7 @@ The objective is not to overload the interface with effects, but to use animatio
 
 ---
 
-## 📌 Featured Areas
+##  Featured Areas
 
 ### Web Development
 
@@ -157,25 +157,8 @@ Hands-on learning around Linux, networking, services, security concepts and ethi
 
 Interactive visual experiments, UI concepts, 3D-inspired interfaces and digital experiences.
 
----
 
-## 📈 Roadmap
-
-- [x] Responsive portfolio layout
-- [x] Animated landing experience
-- [x] Dynamic hero text
-- [x] Interactive project cards
-- [x] Social links
-- [x] Technology showcase
-- [x] Mobile optimization
-- [x] More complete project case studies
-- [x] Live demos for selected projects
-- [x] More interactive 3D experiences
-- [x] Additional AI and cybersecurity projects
-
----
-
-## 📬 Contact
+##  Contact
 
 - **GitHub:** [@nowii-core](https://github.com/nowii-core)
 - **Instagram:** [@flamenich](https://instagram.com/flamenich)
@@ -184,7 +167,7 @@ Interactive visual experiments, UI concepts, 3D-inspired interfaces and digital 
 
 ---
 
-## 📄 License
+##  License
 
 This project is released under the **MIT License**.
 
