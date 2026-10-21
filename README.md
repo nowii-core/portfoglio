@@ -157,23 +157,6 @@ Hands-on learning around Linux, networking, services, security concepts and ethi
 
 Interactive visual experiments, UI concepts, 3D-inspired interfaces and digital experiences.
 
----
-
-##  Roadmap
-
-- [x] Responsive portfolio layout
-- [x] Animated landing experience
-- [x] Dynamic hero text
-- [x] Interactive project cards
-- [x] Social links
-- [x] Technology showcase
-- [x] Mobile optimization
-- [x] More complete project case studies
-- [x] Live demos for selected projects
-- [x] More interactive 3D experiences
-- [x] Additional AI and cybersecurity projects
-
----
 
 ##  Contact
 
