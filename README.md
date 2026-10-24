@@ -1,178 +1,143 @@
-
-
 # nowii — Personal Portfolio
 
-### Creative Developer · Web · AI · Cybersecurity
+<p align="center">
+  <b>Creative Developer · Web · AI · Cybersecurity. A Personal Interactive Portfolio Showcase Built with Modern Web Technologies.</b>
+</p>
 
-[![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)](https://react.dev/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.linux.org/)
+<p align="center">
+  <a href="https://github.com/nowii-core/portfoglio/blob/main/LICENSE">
+    <img src="https://img.shields.io/badge/License-MIT-007ec6?style=for-the-badge" alt="License">
+  </a>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-ES6%2B-f7df1e?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+</p>
+
+<p align="center">
+  <a href="#-overview">Overview</a> •
+  <a href="#-key-features">Features</a> •
+  <a href="#-tech-stack">Tech Stack</a> •
+  <a href="#-project-architecture">Architecture</a> •
+  <a href="#-quick-start">Quick Start</a> •
+  <a href="#-contact">Contact</a>
+</p>
+
+---
 
 </div>
 
----
+## Overview
 
-##  Overview
+**nowii** is a personal interactive portfolio designed to present my work, skills, experiments, and projects through a modern digital experience. 
 
-**nowii** is my personal interactive portfolio, designed to present my work, skills, experiments and projects through a modern digital experience.
+The website is built with a strong focus on visual quality, motion design, responsive layout, and interactive details, with the goal of making the first impression immediate and memorable. It combines web development, creative interfaces, experimentation with AI, and a growing focus on cybersecurity.
 
-The website is built with a strong focus on **visual quality, motion design, responsive layout and interactive details**, with the goal of making the first impression immediate and memorable.
-
-It combines web development, creative interfaces, experimentation with AI and a growing focus on cybersecurity.
-
-> **Build. Experiment. Learn. Improve.**
+> *Build. Experiment. Learn. Improve.*
 
 ---
 
-##  Features
+## Preview
 
-- **Animated Introduction** — cinematic opening sequence with logo, loading progress and smooth entrance animations.
-- **Dynamic Hero Section** — rotating descriptions that automatically change between different areas of development and technology.
-- **Interactive Project Showcase** — project cards with visual previews, hover effects, technologies and direct links.
-- **Infinite Tech Marquee** — continuously scrolling technology strip for a more dynamic presentation.
-- **Responsive Design** — optimized for desktop, tablet and mobile screens.
-- **Motion & Micro-interactions** — scroll reveals, cursor effects, 3D tilt interactions and smooth transitions.
-- **Modern Social Section** — direct links to GitHub, Instagram, Telegram and Discord.
-- **Performance-focused Structure** — lightweight frontend architecture with no unnecessary framework overhead for the portfolio itself.
+![nowii Screenshot](Screenshot-1.png)
+
+> **Live Demo:** [nowii-core.github.io/portfoglio/nowii-portfolio/](https://nowii-core.github.io/portfoglio/nowii-portfolio/)
 
 ---
 
-##  Technologies
+## Key Features
+
+- **Animated Introduction:** A cinematic opening sequence featuring a logo, loading progress, and smooth entrance animations.
+- **Dynamic Hero Section:** Rotating descriptions that automatically transition between different areas of development and technology.
+- **Interactive Project Showcase:** Project cards with visual previews, hover effects, associated technologies, and direct links.
+- **Infinite Tech Marquee:** A continuously scrolling technology strip for a dynamic visual presentation.
+- **Fully Responsive Design:** Optimized for desktop, tablet, and mobile viewing experiences.
+- **Motion & Micro-interactions:** Engaging scroll reveals, custom cursor effects, 3D tilt interactions, and smooth transitions.
+- **Modern Social Section:** Direct, accessible links to GitHub, Instagram, Telegram, and Discord.
+- **Performance-focused Structure:** A lightweight frontend architecture without unnecessary framework overhead, ensuring fast load times.
+
+---
+
+## Tech Stack
 
 ### Frontend
+- **HTML5:** Semantic page structure and accessible markup.
+- **CSS3:** Modern layouts utilizing Flexbox, Grid, responsive design principles, transitions, and custom animations.
+- **JavaScript (ES6+):** Dynamic content rendering, interaction logic, and UI animations.
+- **React:** Used for modern component-based web application development and interactive experiments.
 
-- **HTML5** — semantic page structure and accessible markup.
-- **CSS3** — modern layouts with Flexbox, Grid, responsive design, transitions and custom animations.
-- **JavaScript (ES6+)** — dynamic content, interaction logic and UI animations.
-- **React** — used for modern component-based web application development and experiments.
-
-### Development & Backend
-
-- **Python** — scripting, automation, experiments and development tools.
-- **Node.js** — JavaScript runtime for tooling, APIs and application development.
-- **Git & GitHub** — version control and project management.
-- **Linux** — development environment, terminal workflows and cybersecurity labs.
+### Backend & Tools
+- **Python:** Scripting, automation, experiments, and development utilities.
+- **Node.js:** JavaScript runtime for tooling, API development, and application logic.
+- **Git & Linux:** Version control and primary development/cybersecurity lab environment.
 
 ### Areas of Interest
-
-- **Web Development**
-- **AI & Automation**
-- **Cybersecurity**
-- **UI / UX**
-- **Creative Development**
-- **Interactive Experiences**
+Web Development • AI & Automation • Cybersecurity • UI / UX • Creative Development • Interactive Experiences.
 
 ---
 
-##  Project Structure
+## Project Architecture
 
-```text
+```
 nowii-portfolio/
-├── index.html
-├── styles.css
-├── script.js
-└── README.md
-```
-
-### Main files
-
-| File | Description |
-|------|-------------|
-| `index.html` | Main structure and content of the portfolio |
-| `styles.css` | Complete visual system, responsive layout and animations |
-| `script.js` | Interactions, dynamic text, scroll animations and UI effects |
-| `README.md` | Project documentation |
-
----
-
-##  Getting Started
-
-Clone the repository:
-
-```bash
-git clone https://github.com/nowii-core/nowii-portfolio.git
-cd nowii-portfolio
-```
-
-The project is built as a lightweight static website, so no complex installation is required.
-
-### Run locally
-
-You can open `index.html` directly in your browser.
-
-For a local development server, use:
-
-```bash
-python3 -m http.server 5500
-```
-
-Then open:
-
-```text
-http://127.0.0.1:5500
+├── index.html       # Main structure and content of the portfolio
+├── styles.css       # Complete visual system, responsive layout and animations
+├── script.js        # Interactions, dynamic text, scroll animations and UI effects
+└── README.md        # Project documentation
 ```
 
 ---
 
-##  Design Philosophy
+## Design Philosophy
 
-The portfolio follows a **dark, modern and technology-focused visual identity**.
+The portfolio follows a **dark, modern, and technology-focused visual identity**. The interface combines deep dark backgrounds, blue/violet light accents, glassmorphism-inspired surfaces, animated gradients, subtle glow effects, smooth typography transitions, and interactive cards.
 
-The interface combines:
-
-- deep dark backgrounds
-- blue / violet light accents
-- glassmorphism-inspired surfaces
-- animated gradients
-- subtle glow effects
-- smooth typography transitions
-- interactive cards
-- motion-based section reveals
-
-The objective is not to overload the interface with effects, but to use animation where it improves **hierarchy, personality and user experience**.
+The objective is not to overload the interface with effects, but to use animation strategically to improve hierarchy, personality, and user experience.
 
 ---
 
-##  Featured Areas
+## Quick Start
 
-### Web Development
+### Prerequisites
+No complex installation or build steps are required. The project is built as a lightweight static website.
 
-Modern interfaces, responsive websites and interactive web experiences built with technologies such as HTML, CSS, JavaScript and React.
+### Installation
 
-### AI & Automation
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/nowii-core/portfoglio.git
+   cd portfoglio/nowii-portfolio
+   ```
 
-Experiments involving AI-assisted workflows, automation and intelligent tools designed to solve practical problems.
+2. **Run the application:**
+   You can open the `index.html` file directly in your browser. Alternatively, for a local development server, run:
+   ```bash
+   python3 -m http.server 5500
+   ```
+   Then navigate to `http://127.0.0.1:5500` in your web browser.
 
-### Cybersecurity
+---
 
-Hands-on learning around Linux, networking, services, security concepts and ethical hacking environments.
+## Contact & Support
 
-### Creative Development
-
-Interactive visual experiments, UI concepts, 3D-inspired interfaces and digital experiences.
-
-
-##  Contact
-
-- **GitHub:** [@nowii-core](https://github.com/nowii-core)
+- **Maintainer:** [@nowii-core](https://github.com/nowii-core)
 - **Telegram:** [@nolxv3](https://t.me/nolxv3)
-- **Discord:** [@nxvibe](https://discord.com/users/nxvibe)
-- **Reddit:** [@u/nowii-core](https://www.reddit.com/user/nowii-core/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
-- **Twitter:** [@nowiicore](twitter.com/nowiicore)
----
-
-##  License
-
-This project is released under the **MIT License**.
-
-See the [LICENSE](LICENSE) file for more information.
+- **Discord:** `@nxvibe`
+- **Reddit:** [u/nowii-core](https://www.reddit.com/user/nowii-core/)
+- **Twitter:** [@nowiicore](https://twitter.com/nowiicore)
+- **Bug Reports & Feature Requests:** Open an [Issue](https://github.com/nowii-core/portfoglio/issues) or submit a [Pull Request](https://github.com/nowii-core/portfoglio/pulls).
 
 ---
 
-### Built by **nowii-core**
+## License
+
+This project is distributed under the **MIT** license. See the [`LICENSE`](./LICENSE) file for more information.
+
+---
+
+<div align="center">
+  <sub>Developed by <b>nowii-core</b></sub>
+</div>
