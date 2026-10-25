@@ -124,7 +124,7 @@ No complex installation or build steps are required. The project is built as a l
 ## Contact & Support
 
 - **Maintainer:** [@nowii-core](https://github.com/nowii-core)
-- **Telegram:** [@nowii_core_bot](https://t.me/@nowii_core_bot)
+- **Telegram:** (https://t.me/nowii_core_bot)
 - **Discord:** `@nxvibe`
 - **Reddit:** [u/nowii-core](https://www.reddit.com/user/nowii-core/)
 - **Twitter:** [@nowiicore](https://twitter.com/nowiicore)
